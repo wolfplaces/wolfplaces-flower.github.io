@@ -504,6 +504,7 @@ footer .footer-below {
 
 .custom-instagram-container {
     /* Add your custom styles here */
-    max-width: 600px;
+    max-width: auto;
     margin: 0 auto;
+    align-self: auto;
 }
