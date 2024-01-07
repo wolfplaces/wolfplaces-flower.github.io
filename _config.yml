@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: wolfplaces-flowers
-  location: Our Location
+  location: Our Serving Areas
   social: Our Social Networks
   #credits: Credits
 
@@ -48,8 +48,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Sydney
-  - line: NSW, Australia
+  - line: Sydney, Wollongong.
+  - line: We will expand our services to wider areas in the future.
 
 # Credits content
 #credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
