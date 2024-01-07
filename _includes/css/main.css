@@ -78,7 +78,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
-    background-color: #fff;
+    background-color: #fff ;
 }
 
 .img-centered {
@@ -296,10 +296,24 @@ section.success {
     transition: all .3s ease-in-out;
 }
 
-.btn-outline:hover,
+.btn-outline:hover {
+    border: solid 2px #fff;
+    color: #{{ site.color.primary }};
+    background: #fff ;
+}
 .btn-outline:focus,
 .btn-outline:active,
-.btn-success,
+.btn-outline.active {
+    border: solid 2px #fff;
+    color: #{{ site.color.primary }};
+    background: #fff ;
+}
+
+.btn-success {
+    border: solid 2px #fff;
+    color: #{{ site.color.primary }};
+    background: #fff ;
+}
 
 .floating-label-form-group {
     position: relative;
