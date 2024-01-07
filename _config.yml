@@ -2,7 +2,7 @@
 title: Wolfplaces Flower
 email: wolfplaces18@gmail.com
 url: https://www.wolfplaces.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "We are specilise in small-scale Wedding/Events"
 keywords: "your keywords, separated by commas"
 skills: "We are specilise in small-scale Wedding/Events. We are base in Sydney."
 meta_author: LastName FirstName
@@ -33,8 +33,8 @@ color:
 # Footer settings
 footer:
   copyright: wolfplaces_flowers
-  location: Our Serving Areas
-  social: Our Social Networks
+  location: Our serving areas
+  social: Follow us on
   #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
