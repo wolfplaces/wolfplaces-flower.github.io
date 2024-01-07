@@ -296,6 +296,7 @@ section.success {
     transition: all .3s ease-in-out;
 }
 
+.btn-outline:hover,
 .btn-outline:hover {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
@@ -309,7 +310,7 @@ section.success {
     background: #fff ;
 }
 
-.btn-success {
+.btn-success:active {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
     background: #fff ;
