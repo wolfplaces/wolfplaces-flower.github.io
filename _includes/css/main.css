@@ -22,7 +22,8 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    /* color: #{{ site.color.primary }}; */
+    color: #fff;
 }
 
 h1,
@@ -183,8 +184,7 @@ section h2 {
 }
 
 section.success {
-    /* color: #{{ site.color.primary }}; */
-    color:  #fff ;
+    color: #{{ site.color.primary }};
     background:  #fff ;
 }
 
