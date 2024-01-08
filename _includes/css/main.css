@@ -144,7 +144,6 @@ header .intro-text .skills {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
-        color: #fff;
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -180,10 +179,10 @@ header .intro-text .skills {
     color: #fff;
 }
 
-/* .navbar-default {
-    color: #d40142;
+.navbar .navbar-brand.focus {
+    color: #ffffff;
     background-color: transparent;
-} */
+}
 
 .navbar-inverse {
     border: 0;
