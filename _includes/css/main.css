@@ -146,7 +146,12 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
-    .navbar-fixed-top .navbar-brand a:hover {
+    .navbar-brand:hover {
+        color: #fff;
+        outline: 0;
+    }
+
+    .navbar-brand:focus {
         color: #fff;
         outline: 0;
     }
