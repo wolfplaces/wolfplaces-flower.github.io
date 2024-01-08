@@ -155,11 +155,6 @@ header .intro-text .skills {
     }
 }
 
-.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-    /* color: #d40142; */
-    background-color: transparent;
-}
-
 .navbar {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -184,7 +179,11 @@ header .intro-text .skills {
     color: #fff;
 }
 
-.navbar-default,
+.navbar-default {
+    /* color: #d40142; */
+    background-color: transparent;
+}
+
 .navbar-inverse {
     border: 0;
 }
