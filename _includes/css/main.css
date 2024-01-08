@@ -169,19 +169,14 @@ header .intro-text .skills {
     letter-spacing: 1px;
 }
 
-.navbar .navbar-nav li a:focus {
+.navbar .navbar-nav .navbar-brand  a:focus {
     outline: 0;
     color: #fff;
 }
 
-.navbar .navbar-nav li a:hover {
+.navbar .navbar-nav .navbar-brand  li a:hover {
     outline: 0;
     color: #fff;
-}
-
-.navbar .navbar-brand.focus {
-    color: #ffffff;
-    background-color: transparent;
 }
 
 .navbar-inverse {
