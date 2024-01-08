@@ -49,6 +49,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: 
   - line: Sydney, Wollongong.
   - line: We will expand our services to wider areas in the future.
 
