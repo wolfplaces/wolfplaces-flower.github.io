@@ -150,7 +150,7 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
-    .navbar-fixed-top .navbar-brand a:hover {
+    .navbar-fixed-top .navbar-brand:hover {
         color: #fff;
     }
 
