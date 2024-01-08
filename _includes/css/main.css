@@ -165,6 +165,16 @@ header .intro-text .skills {
     outline: 0;
 }
 
+.narbav .navbar-brand a:focus {
+    outline: 0;
+    color: #fff;
+}
+
+.narbav .navbar-brand a:hover {
+    outline: 0;
+    color: #fff;
+}
+
 .navbar .navbar-nav {
     letter-spacing: 1px;
 }
@@ -174,7 +184,7 @@ header .intro-text .skills {
     color: #fff;
 }
 
-.navbar .navbar-brand .navbar-nav li a:hover {
+.navbar .navbar-nav li a:hover {
     outline: 0;
     color: #fff;
 }
