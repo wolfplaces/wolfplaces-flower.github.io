@@ -153,6 +153,11 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+
+    .navbar-brand li a:hover {
+        outline: 0;
+        color: #fff;
+    }
 }
 
 .navbar {
