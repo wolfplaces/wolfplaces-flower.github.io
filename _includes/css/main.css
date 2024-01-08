@@ -141,11 +141,14 @@ header .intro-text .skills {
 
     .navbar-fixed-top .navbar-brand {
         font-size: 2em;
-        color: #fff;
-        outline: 0;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+    }
+
+    .navbar-fixed-top .navbar-brand a:hover {
+        color: #fff;
+        outline: 0;
     }
 
     .navbar-fixed-top.navbar-shrink {
