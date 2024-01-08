@@ -154,7 +154,9 @@ header .intro-text .skills {
         color: #fff;
     }
 
-
+    .navbar-fixed-top .navbar-brand:focus {
+        color: #fff;
+    }
 
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
