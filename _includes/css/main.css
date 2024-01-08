@@ -155,9 +155,9 @@ header .intro-text .skills {
     }
 }
 
-.navbar-brand:hover {
-    outline: 0;
-    color: #fff;
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    /* color: #d40142; */
+    background-color: transparent;
 }
 
 .navbar {
